@@ -1,0 +1,21 @@
+2024-10-16 14:53:36,785 INFO: Azote v1.13.1
+2024-10-16 14:53:36,785 INFO: Lang: 'en_US'
+2024-10-16 14:53:36,785 INFO: Output found: {'name': 'HDMI-A-1', 'x': 0, 'y': 0, 'width': 1920, 'height': 1080, 'generic-name': 'Samsung Electric Company S24F350 H4ZH800942'}
+2024-10-16 14:53:36,786 INFO: Image sorting: new
+2024-10-16 14:53:36,786 INFO: Custom display: None
+2024-10-16 14:53:36,786 INFO: Old thumbnail width: 240
+2024-10-16 14:53:36,786 INFO: /home/ice9/.config/azote/azoterc file loaded
+2024-10-16 14:53:36,786 INFO: Thumbnail size: (240, 135)
+2024-10-16 14:53:36,786 INFO: Number of columns: 3
+2024-10-16 14:53:36,786 INFO: Palette quality: 10 (10 by default, the less, the better & slower)
+2024-10-16 14:53:36,786 INFO: Files tracking interval: 5 seconds
+2024-10-16 14:53:36,786 INFO: Screen measurement delay: 300 ms
+2024-10-16 14:53:36,789 INFO: Image associations: {'jpeg': {('GNU Image Manipulation Program', 'gimp-2.10'), ('Open Profile Manager', '/usr/lib/firefox/firefox'), ('New Window', 'gthumb'), ('Swappy', 'swappy')}, 'jpg': {('GNU Image Manipulation Program', 'gimp-2.10'), ('Open Profile Manager', '/usr/lib/firefox/firefox'), ('New Window', 'gthumb'), ('Swappy', 'swappy')}, 'png': [('Open Profile Manager', '/usr/lib/firefox/firefox'), ('GNU Image Manipulation Program', 'gimp-2.10'), ('New Window', 'gthumb'), ('Swappy', 'swappy')], 'webp': [('Open Profile Manager', '/usr/lib/firefox/firefox'), ('GNU Image Manipulation Program', 'gimp-2.10'), ('New Window', 'gthumb')]}
+2024-10-16 14:53:36,789 INFO: Color picker: imagemagick library not found
+2024-10-16 14:53:36,791 INFO: Color picker/Wayland: grim package found
+2024-10-16 14:53:36,794 INFO: Color picker/Wayland: slurp package found
+2024-10-16 14:53:36,794 WARNING: Pick color from screen feature needs imagemagick, grim and slurp packages packages
+2024-10-16 14:53:36,794 INFO: Environment: {'send2trash': True, 'yaml': False, 'app_indicator': True, 'wm': 'Hyprland', 'wayland': 'wayland-1'}
+2024-10-16 14:53:36,794 INFO: Alacritty config file: not found
+2024-10-16 14:53:36,794 INFO: ~/.Xresources file not found
+2024-10-16 14:53:36,844 INFO: New thumb: /home/ice9/.local/share/azote/walls/collage_frames.jpg -> 5965da9917e3423c742877b524943c97.png
